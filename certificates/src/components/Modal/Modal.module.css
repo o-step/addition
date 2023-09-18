@@ -1,0 +1,13 @@
+.modal {
+  position: fixed;
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 15px;
+  overflow: hidden;
+  background-color: #353535fb;
+}
+
+.modalImage {
+  align-items: center;
+  justify-content: center;
+}
